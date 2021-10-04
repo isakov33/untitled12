@@ -5,17 +5,15 @@ public class Papa extends Ded{
         super(name, age, face, hobie);
 
     }
-    public void goToZal(int time, String Adrees ) {
-        return;
+    public Papa goToZal(int time, String Adrees ) {
+        return null;
     }
 
-    public void goToZal(String days) {
-        return;
+    public String goToZal(String days) {
+        return null;
     }
 
     public final void goToZal(int turnik) {
-        return;
 
     }
-
 }
